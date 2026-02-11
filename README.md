@@ -1,10 +1,8 @@
-# SPRRP
+<p align="center">
+  <b>SPRRP</b>
+</p>
 
--Version 1.4-
-
-Вся нужная информация на Wiki.
-https://github.com/Sssprt/SPRRP/wiki/1.-%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F
-
-Новые добавленные моды на странице Projects.
-
-Этот репозиторий сделан не для массового использования!   This repository is not made for mass use!
+<p align="center">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devmoded/SPRRP?style=for-the-badge">
+  <img alt="GitHub Release" src="https://img.shields.io/github/v/release/devmoded/SPRRP?style=for-the-badge">
+</p>
