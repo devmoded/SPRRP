@@ -1,0 +1,17 @@
+filename = 'fabric-urban_decor-1.20.1-1.0.6.jar'
+name = 'Urban Decor'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.6'
+
+[download]
+hash = 'd4f4935e1ec3cb51517ea001dc50e7d0402274db39a65808c342a009faa4c86cccc20d2780cb57a9f5f7779f119548295beec0736a5b6f2df6a7e69278758135'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1bLZdx1u/versions/L7ObMikQ/fabric-urban_decor-1.20.1-1.0.6.jar'
+
+[update.modrinth]
+mod-id = '1bLZdx1u'
+version = 'L7ObMikQ'

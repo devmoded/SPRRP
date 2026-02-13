@@ -1,0 +1,17 @@
+filename = 'lazy-language-loader-0.3.3.jar'
+name = 'lazy-language-loader'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.3.3'
+
+[download]
+hash = '14643bb427499f1ca234caa014d4339499de19fe503e5bfd4b295327a19c1bafcf6ebfc77b1fe6ad87b78cc19412efaa13d31a9b78982877b97bdd0dde000179'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Nz0RSWrF/versions/VkswlqCU/lazy-language-loader-0.3.3.jar'
+
+[update.modrinth]
+mod-id = 'Nz0RSWrF'
+version = 'VkswlqCU'

@@ -1,0 +1,17 @@
+filename = 'fabric-runiclib-1.20.1-4.3.8.jar'
+name = 'RunicLib'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.3.8'
+
+[download]
+hash = 'ad4be498cafb9cc2aa2df1840d612f8d04dddaa7c4d0fc7287bf2ce95219d05a4a73fada96ee4406ef57775783f13a19e483a50d88169f4ea8699a1d5f23102d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mk0Htq87/versions/CAzuDTZ2/fabric-runiclib-1.20.1-4.3.8.jar'
+
+[update.modrinth]
+mod-id = 'mk0Htq87'
+version = 'CAzuDTZ2'

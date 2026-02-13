@@ -7,6 +7,26 @@
   <img alt="GitHub Release" src="https://img.shields.io/github/v/release/devmoded/SPRRP?style=for-the-badge">
 </p>
 
+<p align="center">
+  <img alt="Minecraft version" src="https://img.shields.io/badge/Minecraft-1.20.1-blue?style=for-the-badge">
+  <img alt="Fabric version" src="https://img.shields.io/badge/fabric-0.18.4-blue?style=for-the-badge">
+</p>
+
+# Важное
+Сборка была перенесена с версии 1.16.5 и загрузчика Forge на 1.20.1 с 
+загрузчиком Fabric, то есть
+
+```sh
+1.16.5 + Forge => 1.20.1 + Fabric
+```
+
+Старую версию можно [посмотреть здесь](https://github.com/devmoded/SPRRP/tree/v1.1.0), 
+а [скачать тут](https://github.com/devmoded/SPRRP/releases/tag/v1.1.0)
+
+# Системные требования
+Минимальных и рекомендуемых требований нет, так как нет возможности это 
+как-либо определить ` ┐(￣ヘ￣;)┌ `
+
 # Установка
 Для базовой установки достаточно использовать мою программу [Modpack Installer](https://github.com/devmoded/modpack_installer)
 
