@@ -38,7 +38,7 @@
 
 <details>
   <summary>Видео с установкой</summary>
-  <video src="assets/install_tutorial.mp4" controls></video>
+  <video src="https://github.com/devmoded/SPRRP/raw/refs/heads/main/assets/install_tutorial.mp4" controls></video>
 </details>
 
 # Дополнительная настройка
