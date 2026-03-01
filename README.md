@@ -36,10 +36,7 @@
 Для установки основных модов и ресурспаков необходимо просто скопировать все 
 файлы и папки из каталога (папки) `main/` в папку вашей сборки.
 
-<details>
-  <summary>Видео с установкой</summary>
-  <video src="https://github.com/devmoded/SPRRP/raw/refs/heads/main/assets/install_tutorial.mp4" controls></video>
-</details>
+https://github.com/user-attachments/assets/6479ea5e-742a-4c5a-9cb4-74e15be1a07f
 
 # Дополнительная настройка
 ## Автоматическая доп. настройка
