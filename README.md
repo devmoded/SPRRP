@@ -30,7 +30,13 @@
 # Установка
 Для скачивания сборки можно использовать мою программу [Modpack Downloader](https://github.com/devmoded/modpack_downloader)
 
-А дальше следовать инструкции.
+[Скачать Modpack Downloader](https://github.com/devmoded/modpack_downloader/releases/latest/download/modpack-downloader-setup.exe)
+
+Если вы уже скачали Modpack Downloader, то можете [нажать здесь](modpack-dl://download/sprrp)
+для автоматического скачивания сборки
+
+Modpack Downloader сам скачает сборку и разархивирует её в папку `Загрузки`, 
+а дальше следуйте инструкции ниже.
 
 ## Основная установка
 Для установки основных модов и ресурспаков необходимо просто скопировать все 
