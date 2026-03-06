@@ -33,7 +33,7 @@
 [Скачать Modpack Downloader](https://github.com/devmoded/modpack_downloader/releases/latest/download/modpack-downloader-setup.exe)
 
 Если вы уже скачали Modpack Downloader, то можете перейти по ссылке 
-modpack-dl://download/sprrp для автоматического скачивания сборки
+`modpack-dl://download/sprrp` для автоматического скачивания сборки
 
 Modpack Downloader сам скачает сборку и разархивирует её в папку `Загрузки`, 
 а дальше следуйте инструкции ниже.
