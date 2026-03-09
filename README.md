@@ -46,10 +46,10 @@ Modpack Downloader сам скачает сборку и разархивиру�
 
 https://github.com/user-attachments/assets/bc9a91d2-9312-495e-acb9-1a9490b5269a
 
-# Дополнительная настройка
+# Дополнительная настройка (необязательно)
 ## Автоматическая доп. настройка
 Эту настройку можно выполнить либо вручную, как описано ниже, либо 
-воспользоваться скриптом [`custom_install.py`](https://github.com/devmoded/SPRRP/blob/main/custom_install.py)
+воспользоваться скриптом [`custom_install.py`](https://github.com/devmoded/SPRRP/blob/main/custom_install.py) (пока не работает)
 
 ## Ручная
 В основном каталоге есть каталог (папка) `custom/`, внутри три `.zip` архива:
