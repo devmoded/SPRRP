@@ -8,20 +8,19 @@
 </p>
 
 <p align="center">
-  <img alt="Minecraft version" src="https://img.shields.io/badge/Minecraft-1.20.1-blue?style=for-the-badge">
+  <img alt="Minecraft version" src="https://img.shields.io/badge/Minecraft-1.21.1-blue?style=for-the-badge">
   <img alt="Fabric version" src="https://img.shields.io/badge/fabric-0.18.4-blue?style=for-the-badge">
 </p>
 
 # Важное
-Сборка была перенесена с версии 1.16.5 и загрузчика Forge на 1.20.1 с 
-загрузчиком Fabric, то есть
+Сборка была перенесена с версии 1.20.1 на 1.21.1, то есть
 
 ```sh
-1.16.5 + Forge => 1.20.1 + Fabric
+1.20.1 + Fabric => 1.21.1 + Fabric
 ```
 
-Старую версию можно [посмотреть здесь](https://github.com/devmoded/SPRRP/tree/v1.1.0), 
-а [скачать тут](https://github.com/devmoded/SPRRP/releases/tag/v1.1.0)
+Старую версию можно [посмотреть здесь](https://github.com/devmoded/SPRRP/tree/v2.3.0), 
+а [скачать тут](https://github.com/devmoded/SPRRP/releases/download/v2.3.0/sprrp-pack.zip)
 
 # Системные требования
 Минимальных и рекомендуемых требований нет, так как нет возможности это 
@@ -70,9 +69,11 @@ https://github.com/user-attachments/assets/bc9a91d2-9312-495e-acb9-1a9490b5269a
 
 Первый необходимо скопировать в основную папку игры, второй в папку `config/`
 
+<!--
 ## Доп. настройка внутри игры
 ### Ресурспаки применять в следующем порядке:
 1. `verynicetex`
 2. `Деньги_Ver2`
 3. `деньги`
 4. `Unity-1.16.X-Dark-0.7.0`
+-->
