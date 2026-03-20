@@ -1,3 +1,4 @@
 dist/
 compose.yml
+compose.template.yml
 gen_mods_links.py
