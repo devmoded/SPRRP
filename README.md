@@ -26,7 +26,13 @@
 Минимальных и рекомендуемых требований нет, так как нет возможности это 
 как-либо определить 🤷‍♂️
 
-# Установка
+# Скачивание
+## Ручное скачивание
+Для ручного скачивания [нажмите здесь](https://github.com/devmoded/SPRRP/releases/latest/download/sprrp-pack.zip).
+
+Далее распакуйте скачанный архив и следуйте инструкции ниже.
+
+## Modpack Downloader
 Для скачивания сборки можно использовать мою программу [Modpack Downloader](https://github.com/devmoded/modpack_downloader)
 
 [Скачать Modpack Downloader](https://github.com/devmoded/modpack_downloader/releases/latest/download/modpack-downloader-setup.exe)
@@ -39,7 +45,7 @@
 Modpack Downloader сам скачает сборку и разархивирует её в папку `Загрузки`, 
 а дальше следуйте инструкции ниже.
 
-## Основная установка
+# Основная установка
 Для установки основных модов и ресурспаков необходимо просто скопировать все 
 файлы и папки из каталога (папки) `main/` в папку вашей сборки.
 
@@ -68,6 +74,15 @@ https://github.com/user-attachments/assets/bc9a91d2-9312-495e-acb9-1a9490b5269a
 файл `xaerominimap.txt`(2)
 
 Первый необходимо скопировать в основную папку игры, второй в папку `config/`
+
+# Обновление
+Для обновления сборки просто заново скачайте её [по ссылке](https://github.com/devmoded/SPRRP/releases/latest/download/sprrp-pack.zip)
+или через [Modpack Downloader](https://github.com/devmoded/modpack_downloader).
+
+Затем удалите **в вашей (уже установленной) сборке** папку `mods` и потом 
+выполняйте действия, как в инструкции по установке выше.
+
+Более удобного способа обновления сборки пока нет.
 
 <!--
 ## Доп. настройка внутри игры
