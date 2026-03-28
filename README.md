@@ -28,8 +28,8 @@
 1.20.1 + Fabric => 1.21.1 + Fabric
 ```
 
-Старую версию можно [посмотреть здесь](https://github.com/devmoded/SPRRP/tree/v2.3.0), 
-а [скачать тут 🔗](https://github.com/devmoded/SPRRP/releases/download/v2.3.0/sprrp-pack.zip)
+Старую версию можно [посмотреть здесь 👁️](https://github.com/devmoded/SPRRP/tree/v2.3.0), 
+а [скачать тут 📥️](https://github.com/devmoded/SPRRP/releases/download/v2.3.0/sprrp-pack.zip)
 
 # Системные требования
 Минимальных и рекомендуемых требований нет, так как нет возможности это 
@@ -52,7 +52,7 @@
 выполнится базовая установка.
 
 # Ручное скачивание и установка
-Для ручного скачивания [нажмите здесь 🔗](https://github.com/devmoded/SPRRP/releases/latest/download/sprrp-pack.zip).
+Для ручного скачивания [нажмите здесь 📥️](https://github.com/devmoded/SPRRP/releases/latest/download/sprrp-pack.zip).
 
 Для установки основных модов и ресурспаков необходимо просто скопировать все 
 файлы и папки из каталога (папки) `main/` в папку вашей сборки.
@@ -94,7 +94,7 @@ https://github.com/user-attachments/assets/bc9a91d2-9312-495e-acb9-1a9490b5269a
 - Через графический интерфейс приложения выбрав `sprrp` в выпадающем списке
 
 # Ручное обновление
-Для обновления сборки просто заново скачайте её [по ссылке 🔗](https://github.com/devmoded/SPRRP/releases/latest/download/sprrp-pack.zip) 
+Для обновления сборки просто заново скачайте её [по ссылке 📥️](https://github.com/devmoded/SPRRP/releases/latest/download/sprrp-pack.zip) 
 
 Затем удалите **в вашей (уже установленной) сборке** папку `mods` и потом 
 выполняйте действия, как в инструкции по ручной установке выше.
