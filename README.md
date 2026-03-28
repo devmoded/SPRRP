@@ -1,5 +1,6 @@
 <p align="center">
-  <b>SPRRP</b>
+  <!--<b>SPRRP</b>-->
+  <img alt="SPRRP" src="assets/sprrp_full_logo.svg" height="100px">
 </p>
 
 <p align="center">
