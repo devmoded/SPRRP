@@ -1,0 +1,23 @@
+services:
+  mc:
+    image: itzg/minecraft-server:java21
+    tty: true
+    stdin_open: true
+    ports:
+      - "25565:25565"
+    environment:
+      EULA: "TRUE"
+      TYPE: "FABRIC"
+      VERSION: "1.21.1"
+      FABRIC_LOADER_VERSION: "0.18.4"
+      MEMORY: 4G
+      MAX_PLAYERS: "15"
+      MOTD: "Сервер SPRRP"
+      ONLINE_MODE: "false"
+      TZ: "Europe/Moscow"
+      OPS: |-
+        devmoded
+      MODS: |-
+        $mods_list
+    volumes:
+      - "./data:/data"
