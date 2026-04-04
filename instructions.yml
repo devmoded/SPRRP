@@ -1,0 +1,5 @@
+install_type:
+  main:
+    default: none
+    mods: from-list
+    resourcepacks: merge

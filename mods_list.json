@@ -1,0 +1,355 @@
+{
+  "loader": "fabric",
+  "mc_version": "1.21.1",
+  "mods": [
+    {
+      "name": "Another Furniture",
+      "url": "https://modrinth.com/mod/ulloLmqG",
+      "version": "4.0.2"
+    },
+    {
+      "name": "Architectury",
+      "url": "https://modrinth.com/mod/lhGA9TYQ",
+      "version": "13.0.8"
+    },
+    {
+      "name": "Athena",
+      "url": "https://modrinth.com/mod/b1ZV3DIJ",
+      "version": "4.0.2"
+    },
+    {
+      "name": "Automobility",
+      "url": "https://modrinth.com/mod/rqIsPf9F",
+      "version": "0.5.0.h"
+    },
+    {
+      "name": "BadOptimizations",
+      "url": "https://modrinth.com/mod/g96Z4WVZ",
+      "version": "2.4.1"
+    },
+    {
+      "name": "BetterF1",
+      "url": "https://modrinth.com/mod/2JIeCmxb",
+      "version": "1.1"
+    },
+    {
+      "name": "Chipped",
+      "url": "https://modrinth.com/mod/BAscRYKm",
+      "version": "4.0.2"
+    },
+    {
+      "name": "Cloth Config v15",
+      "url": "https://modrinth.com/mod/9s6osm5g",
+      "version": "15.0.140"
+    },
+    {
+      "name": "Concurrent Chunk Management Engine",
+      "url": "https://modrinth.com/mod/VSNURh3q",
+      "version": "0.3.0+alpha.0.150+1.21.1"
+    },
+    {
+      "name": "Continuity",
+      "url": "https://modrinth.com/mod/1IjD5062",
+      "version": "3.0.0+1.21"
+    },
+    {
+      "name": "Debugify",
+      "url": "https://modrinth.com/mod/QwxR6Gcd",
+      "version": "1.21.1+1.0"
+    },
+    {
+      "name": "Dusty Decorations Refabricated",
+      "url": "https://www.curseforge.com/projects/843344",
+      "version": "1.1-1.21+1.21.1"
+    },
+    {
+      "name": "Dynamic FPS",
+      "url": "https://modrinth.com/mod/LQ3K71Q1",
+      "version": "3.11.4"
+    },
+    {
+      "name": "Easy NPC",
+      "url": "https://modrinth.com/mod/Epm6R3P2",
+      "version": "6.11.0"
+    },
+    {
+      "name": "Easy NPC (Bundle)",
+      "url": "https://modrinth.com/mod/CgGEe1h3",
+      "version": "6.11.0"
+    },
+    {
+      "name": "Easy NPC: Config UI",
+      "url": "https://modrinth.com/mod/uTGjf7vA",
+      "version": "6.11.0"
+    },
+    {
+      "name": "Emotecraft",
+      "url": "https://modrinth.com/mod/pZ2wrerK",
+      "version": "2.4.12"
+    },
+    {
+      "name": "Enhanced Block Entities",
+      "url": "https://modrinth.com/mod/OVuFYfre",
+      "version": "0.10.2+1.21"
+    },
+    {
+      "name": "EntityCulling",
+      "url": "https://modrinth.com/mod/NNAgCjsB",
+      "version": "1.6.7"
+    },
+    {
+      "name": "Fabric API",
+      "url": "https://modrinth.com/mod/P7dR8mSH",
+      "version": "0.116.9+1.21.1"
+    },
+    {
+      "name": "Fabric Language Kotlin",
+      "url": "https://modrinth.com/mod/Ha28R6CL",
+      "version": "1.13.9+kotlin.2.3.10"
+    },
+    {
+      "name": "Fairy Lights",
+      "url": "https://modrinth.com/mod/OuLVx5LM",
+      "version": "1.1.3+1.21.1_fabric"
+    },
+    {
+      "name": "Fast IP Ping",
+      "url": "https://modrinth.com/mod/9mtu0sUO",
+      "version": "1.0.8"
+    },
+    {
+      "name": "Fast Paintings",
+      "url": "https://modrinth.com/mod/z3TzcquW",
+      "version": "1.21-1.3.0"
+    },
+    {
+      "name": "FerriteCore",
+      "url": "https://modrinth.com/mod/uXXizFIs",
+      "version": "7.0.3"
+    },
+    {
+      "name": "Forge Config API Port",
+      "url": "https://modrinth.com/mod/ohNO6lps",
+      "version": "21.1.6"
+    },
+    {
+      "name": "Framework",
+      "url": "local:main/mods/framework-fabric-1.21.1-0.13.11.jar",
+      "version": "0.13.11"
+    },
+    {
+      "name": "Fzzy Config",
+      "url": "https://modrinth.com/mod/hYykXjDp",
+      "version": "0.7.6+1.21"
+    },
+    {
+      "name": "Handcrafted",
+      "url": "https://modrinth.com/mod/pJmCFF0p",
+      "version": "4.0.3"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "url": "https://modrinth.com/mod/5ZwdcRci",
+      "version": "1.6.10+1.21.1"
+    },
+    {
+      "name": "Immersive Paintings",
+      "url": "https://modrinth.com/mod/6txNkua3",
+      "version": "0.7.6"
+    },
+    {
+      "name": "Iris",
+      "url": "https://modrinth.com/mod/YL57xq9U",
+      "version": "1.8.8+mc1.21.1"
+    },
+    {
+      "name": "LambDynamicLights",
+      "url": "https://modrinth.com/mod/yBW8D80W",
+      "version": "4.8.7+1.21.1"
+    },
+    {
+      "name": "Language Reload",
+      "url": "https://modrinth.com/mod/uLbm7CG6",
+      "version": "1.7.5+1.21.1"
+    },
+    {
+      "name": "Lithium",
+      "url": "https://modrinth.com/mod/gvQqBUqZ",
+      "version": "0.15.3+mc1.21.1"
+    },
+    {
+      "name": "Macaw's Doors",
+      "url": "https://modrinth.com/mod/kNxa8z3e",
+      "version": "1.1.5"
+    },
+    {
+      "name": "Macaw's Furniture",
+      "url": "https://modrinth.com/mod/dtWC90iB",
+      "version": "3.4.1"
+    },
+    {
+      "name": "Macaw's Trapdoors",
+      "url": "https://modrinth.com/mod/n2fvCDlM",
+      "version": "1.1.5"
+    },
+    {
+      "name": "Macaw's Windows",
+      "url": "https://modrinth.com/mod/C7I0BCni",
+      "version": "2.4.2"
+    },
+    {
+      "name": "Memory Leak Fix",
+      "url": "https://modrinth.com/mod/NRjRiSSD",
+      "version": "1.1.5"
+    },
+    {
+      "name": "Mod Menu",
+      "url": "https://modrinth.com/mod/mOgUt4GM",
+      "version": "11.0.3"
+    },
+    {
+      "name": "Model Gap Fix",
+      "url": "https://modrinth.com/mod/QdG47OkI",
+      "version": "1.21-1.6"
+    },
+    {
+      "name": "ModernFix",
+      "url": "https://modrinth.com/mod/nmDcB62a",
+      "version": "5.25.1+mc1.21.1"
+    },
+    {
+      "name": "ModpackChecker",
+      "version": "1.0.0"
+    },
+    {
+      "name": "Moonlight Lib",
+      "url": "https://modrinth.com/mod/twkfQtEc",
+      "version": "1.21-2.29.20"
+    },
+    {
+      "name": "More Culling",
+      "url": "https://modrinth.com/mod/51shyZVL",
+      "version": "1.0.7"
+    },
+    {
+      "name": "MrCrayfish's Furniture Mod: Refurbished",
+      "url": "local:main/mods/refurbished_furniture-fabric-1.21.1-1.0.22.jar",
+      "version": "1.0.22"
+    },
+    {
+      "name": "Not Enough Crashes",
+      "url": "https://modrinth.com/mod/yM94ont6",
+      "version": "4.4.9+1.21.1"
+    },
+    {
+      "name": "PacketFixer",
+      "url": "https://modrinth.com/mod/c7m1mi73",
+      "version": "3.3.1"
+    },
+    {
+      "name": "Particle Core",
+      "url": "https://modrinth.com/mod/RSeLon5O",
+      "version": "0.3.3+1.21"
+    },
+    {
+      "name": "Reese's Sodium Options",
+      "url": "https://modrinth.com/mod/Bh37bMuy",
+      "version": "1.8.3+mc1.21.4"
+    },
+    {
+      "name": "Resourceful Lib",
+      "url": "https://modrinth.com/mod/G1hIVOrD",
+      "version": "3.0.12"
+    },
+    {
+      "name": "RunicLib",
+      "url": "https://modrinth.com/mod/mk0Htq87",
+      "version": "5.0.5"
+    },
+    {
+      "name": "SPRRP Cars",
+      "url": "local:main/mods/sprrp_cars-1.2+1.21.1.jar",
+      "version": "1.2+1.21.1"
+    },
+    {
+      "name": "ScalableLux",
+      "url": "https://modrinth.com/mod/Ps1zyz6x",
+      "version": "0.1.0.1+fabric.d0d58ab"
+    },
+    {
+      "name": "SelectiveBounds",
+      "url": "https://modrinth.com/mod/rnTvRqwF",
+      "version": "0.0.3"
+    },
+    {
+      "name": "Simple Voice Chat",
+      "url": "https://modrinth.com/mod/9eGKb6K1",
+      "version": "1.21.1-2.6.12"
+    },
+    {
+      "name": "Sodium",
+      "url": "https://modrinth.com/mod/AANobbMI",
+      "version": "0.6.13+mc1.21.1"
+    },
+    {
+      "name": "Sodium Extra",
+      "url": "https://modrinth.com/mod/PtjYWJkn",
+      "version": "0.6.0+mc1.21.1"
+    },
+    {
+      "name": "TLSkinCape",
+      "url": "local:main/mods/tl_skin_cape_fabric_1.20.2_1.21.1-1.38.jar",
+      "version": "1.38"
+    },
+    {
+      "name": "ThreadTweak",
+      "url": "https://modrinth.com/mod/vSEH1ERy",
+      "version": "0.1.5+mc1.21.1"
+    },
+    {
+      "name": "Timeless & Classics Guns: Zero Refabricated",
+      "url": "https://modrinth.com/mod/1j76DVHU",
+      "version": "0.5.0-forge1.1.7-hotfix2"
+    },
+    {
+      "name": "ToolTip Fix",
+      "url": "https://modrinth.com/mod/2RKFTmiB",
+      "version": "1.1.1-1.20"
+    },
+    {
+      "name": "Urban Decor",
+      "url": "https://modrinth.com/mod/1bLZdx1u",
+      "version": "1.1.0"
+    },
+    {
+      "name": "WorldEdit",
+      "url": "https://modrinth.com/mod/1u6JkXh5",
+      "version": "7.3.8+6939-7d32b45"
+    },
+    {
+      "name": "Xaero's World Map",
+      "url": "https://modrinth.com/mod/NcUtCpym",
+      "version": "1.40.11"
+    },
+    {
+      "name": "YetAnotherConfigLib",
+      "url": "https://modrinth.com/mod/1eAoo2KR",
+      "version": "3.8.2+1.21.1-fabric"
+    },
+    {
+      "name": "Yuushya",
+      "url": "https://modrinth.com/mod/lfVtagkm",
+      "version": "2.2.3"
+    },
+    {
+      "name": "Zoomify",
+      "url": "https://modrinth.com/mod/w7ThoJFB",
+      "version": "2.15.2+1.21.1"
+    },
+    {
+      "name": "lazy-language-loader",
+      "url": "https://modrinth.com/mod/Nz0RSWrF",
+      "version": "0.3.7"
+    }
+  ]
+}
