@@ -1,5 +1,5 @@
 install_type:
   main:
     default: none
-    mods: from-list
+    mods: force-from-list
     resourcepacks: merge
