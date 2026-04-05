@@ -3,344 +3,344 @@
   "mc_version": "1.21.1",
   "mods": [
     {
+      "name": "ToolTipFix",
+      "url": "https://cdn.modrinth.com/data/2RKFTmiB/versions/B2L4LeMV/tooltipfix-1.1.1-1.20.jar",
+      "version": "1.1.1-1.20"
+    },
+    {
+      "name": "Fabric Language Kotlin",
+      "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/ViT4gucI/fabric-language-kotlin-1.13.9%2Bkotlin.2.3.10.jar",
+      "version": "1.13.9+kotlin.2.3.10"
+    },
+    {
       "name": "Another Furniture",
-      "url": "https://modrinth.com/mod/ulloLmqG",
+      "url": "https://cdn.modrinth.com/data/ulloLmqG/versions/8xUs6Teu/another_furniture-fabric-4.0.2.jar",
       "version": "4.0.2"
     },
     {
       "name": "Architectury",
-      "url": "https://modrinth.com/mod/lhGA9TYQ",
-      "version": "13.0.8"
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Wto0RchG/architectury-13.0.8-fabric.jar",
+      "version": "13.0.8+fabric"
     },
     {
       "name": "Athena",
-      "url": "https://modrinth.com/mod/b1ZV3DIJ",
+      "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/7PcGW9Vp/athena-fabric-1.21-4.0.2.jar",
       "version": "4.0.2"
     },
     {
       "name": "Automobility",
-      "url": "https://modrinth.com/mod/rqIsPf9F",
+      "url": "https://cdn.modrinth.com/data/rqIsPf9F/versions/vvzu2A6h/automobility-0.5.0.h%2B1.21.1-fabric.jar",
       "version": "0.5.0.h"
     },
     {
       "name": "BadOptimizations",
-      "url": "https://modrinth.com/mod/g96Z4WVZ",
+      "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar",
       "version": "2.4.1"
     },
     {
       "name": "BetterF1",
-      "url": "https://modrinth.com/mod/2JIeCmxb",
+      "url": "https://cdn.modrinth.com/data/2JIeCmxb/versions/S81P3LsG/BetterF1-Fabric-1.1%2B1.21.7.jar",
       "version": "1.1"
     },
     {
       "name": "Chipped",
-      "url": "https://modrinth.com/mod/BAscRYKm",
+      "url": "https://cdn.modrinth.com/data/BAscRYKm/versions/6h2mVZcb/chipped-fabric-1.21.1-4.0.2.jar",
       "version": "4.0.2"
     },
     {
-      "name": "Cloth Config v15",
-      "url": "https://modrinth.com/mod/9s6osm5g",
-      "version": "15.0.140"
-    },
-    {
-      "name": "Concurrent Chunk Management Engine",
-      "url": "https://modrinth.com/mod/VSNURh3q",
-      "version": "0.3.0+alpha.0.150+1.21.1"
+      "name": "Cloth Config v11",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
+      "version": "15.0.140+fabric"
     },
     {
       "name": "Continuity",
-      "url": "https://modrinth.com/mod/1IjD5062",
+      "url": "https://cdn.modrinth.com/data/1IjD5062/versions/kSPJ4hQv/continuity-3.0.0%2B1.21.jar",
       "version": "3.0.0+1.21"
     },
     {
       "name": "Debugify",
-      "url": "https://modrinth.com/mod/QwxR6Gcd",
+      "url": "https://cdn.modrinth.com/data/QwxR6Gcd/versions/dO7QNiof/Debugify-1.21.1%2B1.0.jar",
       "version": "1.21.1+1.0"
     },
     {
-      "name": "Dusty Decorations Refabricated",
-      "url": "https://www.curseforge.com/projects/843344",
-      "version": "1.1-1.21+1.21.1"
-    },
-    {
       "name": "Dynamic FPS",
-      "url": "https://modrinth.com/mod/LQ3K71Q1",
+      "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GBH14HiF/dynamic-fps-3.11.4%2Bminecraft-1.21.0-fabric.jar",
       "version": "3.11.4"
     },
     {
-      "name": "Easy NPC",
-      "url": "https://modrinth.com/mod/Epm6R3P2",
-      "version": "6.11.0"
-    },
-    {
-      "name": "Easy NPC (Bundle)",
-      "url": "https://modrinth.com/mod/CgGEe1h3",
-      "version": "6.11.0"
-    },
-    {
-      "name": "Easy NPC: Config UI",
-      "url": "https://modrinth.com/mod/uTGjf7vA",
-      "version": "6.11.0"
-    },
-    {
       "name": "Emotecraft",
-      "url": "https://modrinth.com/mod/pZ2wrerK",
-      "version": "2.4.12"
-    },
-    {
-      "name": "Enhanced Block Entities",
-      "url": "https://modrinth.com/mod/OVuFYfre",
-      "version": "0.10.2+1.21"
-    },
-    {
-      "name": "EntityCulling",
-      "url": "https://modrinth.com/mod/NNAgCjsB",
-      "version": "1.6.7"
+      "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/daqt5qcK/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+      "version": "2.4.12+1.21.1-fabric"
     },
     {
       "name": "Fabric API",
-      "url": "https://modrinth.com/mod/P7dR8mSH",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/yGAe1owa/fabric-api-0.116.9%2B1.21.1.jar",
       "version": "0.116.9+1.21.1"
     },
     {
-      "name": "Fabric Language Kotlin",
-      "url": "https://modrinth.com/mod/Ha28R6CL",
-      "version": "1.13.9+kotlin.2.3.10"
-    },
-    {
       "name": "Fairy Lights",
-      "url": "https://modrinth.com/mod/OuLVx5LM",
+      "url": "https://cdn.modrinth.com/data/OuLVx5LM/versions/I5KAi0sD/fairylights-1.1.3%2B1.21.1_fabric.jar",
       "version": "1.1.3+1.21.1_fabric"
     },
     {
       "name": "Fast IP Ping",
-      "url": "https://modrinth.com/mod/9mtu0sUO",
-      "version": "1.0.8"
+      "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/ux7vO2Nl/fast-ip-ping-v1.0.8-mc1.21.1-fabric.jar",
+      "version": "v1.0.8-mc1.21.1-fabric"
     },
     {
       "name": "Fast Paintings",
-      "url": "https://modrinth.com/mod/z3TzcquW",
-      "version": "1.21-1.3.0"
+      "url": "https://cdn.modrinth.com/data/z3TzcquW/versions/gv8Py8iO/fastpaintings-1.21-1.3.0-fabric.jar",
+      "version": "fabric_1.21-1.3.0"
     },
     {
       "name": "FerriteCore",
-      "url": "https://modrinth.com/mod/uXXizFIs",
-      "version": "7.0.3"
-    },
-    {
-      "name": "Forge Config API Port",
-      "url": "https://modrinth.com/mod/ohNO6lps",
-      "version": "21.1.6"
-    },
-    {
-      "name": "Framework",
-      "url": "local:main/mods/framework-fabric-1.21.1-0.13.11.jar",
-      "version": "0.13.11"
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
+      "version": "7.0.3-fabric"
     },
     {
       "name": "Fzzy Config",
-      "url": "https://modrinth.com/mod/hYykXjDp",
+      "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/kOmySYD4/fzzy_config-0.7.6%2B1.21.jar",
       "version": "0.7.6+1.21"
     },
     {
       "name": "Handcrafted",
-      "url": "https://modrinth.com/mod/pJmCFF0p",
+      "url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/f0pKpUWd/handcrafted-fabric-1.21.1-4.0.3.jar",
       "version": "4.0.3"
     },
     {
       "name": "ImmediatelyFast",
-      "url": "https://modrinth.com/mod/5ZwdcRci",
-      "version": "1.6.10+1.21.1"
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/yHztKxR5/ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar",
+      "version": "1.6.10+1.21.1-fabric"
     },
     {
       "name": "Immersive Paintings",
-      "url": "https://modrinth.com/mod/6txNkua3",
-      "version": "0.7.6"
+      "url": "https://cdn.modrinth.com/data/6txNkua3/versions/LGth3NbU/immersive_paintings-fabric-1.21.1-0.7.6.jar",
+      "version": "0.7.6+1.21.1"
     },
     {
       "name": "Iris",
-      "url": "https://modrinth.com/mod/YL57xq9U",
-      "version": "1.8.8+mc1.21.1"
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar",
+      "version": "1.8.8+1.21.1-fabric"
     },
     {
-      "name": "LambDynamicLights",
-      "url": "https://modrinth.com/mod/yBW8D80W",
-      "version": "4.8.7+1.21.1"
-    },
-    {
-      "name": "Language Reload",
-      "url": "https://modrinth.com/mod/uLbm7CG6",
-      "version": "1.7.5+1.21.1"
+      "name": "lazy-language-loader",
+      "url": "https://cdn.modrinth.com/data/Nz0RSWrF/versions/4cZkq7uT/lazy-language-loader-0.3.7.jar",
+      "version": "0.3.7"
     },
     {
       "name": "Lithium",
-      "url": "https://modrinth.com/mod/gvQqBUqZ",
-      "version": "0.15.3+mc1.21.1"
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/XQJtuOTA/lithium-fabric-0.15.3%2Bmc1.21.1.jar",
+      "version": "mc1.21.1-0.15.3-fabric"
     },
     {
       "name": "Macaw's Doors",
-      "url": "https://modrinth.com/mod/kNxa8z3e",
+      "url": "https://cdn.modrinth.com/data/kNxa8z3e/versions/Zsfvgzu6/mcw-doors-1.1.5-mc1.21.1fabric.jar",
       "version": "1.1.5"
     },
     {
       "name": "Macaw's Furniture",
-      "url": "https://modrinth.com/mod/dtWC90iB",
+      "url": "https://cdn.modrinth.com/data/dtWC90iB/versions/x2pXgG0s/mcw-furniture-3.4.1-mc1.21.1fabric.jar",
       "version": "3.4.1"
     },
     {
       "name": "Macaw's Trapdoors",
-      "url": "https://modrinth.com/mod/n2fvCDlM",
+      "url": "https://cdn.modrinth.com/data/n2fvCDlM/versions/Nr24HhRK/mcw-trapdoors-1.1.5-mc1.21.1fabric.jar",
       "version": "1.1.5"
     },
     {
       "name": "Macaw's Windows",
-      "url": "https://modrinth.com/mod/C7I0BCni",
+      "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/4mvfMpVO/mcw-mcwwindows-2.4.2-mc1.21.1fabric.jar",
       "version": "2.4.2"
     },
     {
       "name": "Mod Menu",
-      "url": "https://modrinth.com/mod/mOgUt4GM",
+      "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/YIfqIJ8q/modmenu-11.0.3.jar",
       "version": "11.0.3"
     },
     {
       "name": "Model Gap Fix",
-      "url": "https://modrinth.com/mod/QdG47OkI",
+      "url": "https://cdn.modrinth.com/data/QdG47OkI/versions/FUZo6yCk/modelfix-1.21-1.6-fabric.jar",
       "version": "1.21-1.6"
     },
     {
       "name": "ModernFix",
-      "url": "https://modrinth.com/mod/nmDcB62a",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
       "version": "5.25.1+mc1.21.1"
     },
     {
-      "name": "Moonlight Lib",
-      "url": "https://modrinth.com/mod/twkfQtEc",
-      "version": "1.21-2.29.20"
+      "name": "Moonlight",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/nOYRAzG7/moonlight-1.21-2.29.20-fabric.jar",
+      "version": "1.21-2.29.20-fabric"
     },
     {
       "name": "More Culling",
-      "url": "https://modrinth.com/mod/51shyZVL",
+      "url": "https://cdn.modrinth.com/data/51shyZVL/versions/y4J2jK6V/moreculling-fabric-1.21.1-1.0.7.jar",
       "version": "1.0.7"
     },
     {
-      "name": "MrCrayfish's Furniture Mod: Refurbished",
-      "url": "local:main/mods/refurbished_furniture-fabric-1.21.1-1.0.22.jar",
-      "version": "1.0.22"
-    },
-    {
       "name": "Not Enough Crashes",
-      "url": "https://modrinth.com/mod/yM94ont6",
-      "version": "4.4.9+1.21.1"
-    },
-    {
-      "name": "PacketFixer",
-      "url": "https://modrinth.com/mod/c7m1mi73",
-      "version": "3.3.1"
+      "url": "https://cdn.modrinth.com/data/yM94ont6/versions/gR0LY1dB/notenoughcrashes-fabric-4.4.9%2B1.21.1.jar",
+      "version": "4.4.9+1.21.1-fabric"
     },
     {
       "name": "Particle Core",
-      "url": "https://modrinth.com/mod/RSeLon5O",
+      "url": "https://cdn.modrinth.com/data/RSeLon5O/versions/mau4pnKr/particle_core-0.3.3%2B1.21.jar",
       "version": "0.3.3+1.21"
     },
     {
       "name": "Reese's Sodium Options",
-      "url": "https://modrinth.com/mod/Bh37bMuy",
-      "version": "1.8.3+mc1.21.4"
+      "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/KoUrx3jJ/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar",
+      "version": "mc1.21.4-1.8.3+fabric"
     },
     {
       "name": "Resourceful Lib",
-      "url": "https://modrinth.com/mod/G1hIVOrD",
+      "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/Hf91FuVF/resourcefullib-fabric-1.21-3.0.12.jar",
       "version": "3.0.12"
     },
     {
       "name": "RunicLib",
-      "url": "https://modrinth.com/mod/mk0Htq87",
+      "url": "https://cdn.modrinth.com/data/mk0Htq87/versions/BL4pXwiZ/fabric-runiclib-1.21.1-5.0.5.1.jar",
       "version": "5.0.5"
     },
     {
-      "name": "SPRRP Cars",
-      "url": "local:main/mods/sprrp_cars-1.2+1.21.1.jar",
-      "version": "1.2+1.21.1"
-    },
-    {
-      "name": "ScalableLux",
-      "url": "https://modrinth.com/mod/Ps1zyz6x",
-      "version": "0.1.0.1+fabric.d0d58ab"
-    },
-    {
       "name": "SelectiveBounds",
-      "url": "https://modrinth.com/mod/rnTvRqwF",
-      "version": "0.0.3"
+      "url": "https://cdn.modrinth.com/data/rnTvRqwF/versions/IvSRkpUK/selectivebounds-fabric-1.21.1-0.0.3.jar",
+      "version": "0.0.3+1.21.1"
     },
     {
       "name": "Simple Voice Chat",
-      "url": "https://modrinth.com/mod/9eGKb6K1",
-      "version": "1.21.1-2.6.12"
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/a5dpsZGN/voicechat-fabric-1.21.1-2.6.12.jar",
+      "version": "fabric-1.21.1-2.6.12"
     },
     {
       "name": "Sodium",
-      "url": "https://modrinth.com/mod/AANobbMI",
-      "version": "0.6.13+mc1.21.1"
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/u1OEbNKx/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
+      "version": "mc1.21.1-0.6.13-fabric"
     },
     {
       "name": "Sodium Extra",
-      "url": "https://modrinth.com/mod/PtjYWJkn",
-      "version": "0.6.0+mc1.21.1"
-    },
-    {
-      "name": "TLSkinCape",
-      "url": "local:main/mods/tl_skin_cape_fabric_1.20.2_1.21.1-1.38.jar",
-      "version": "1.38"
+      "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/anDafurZ/sodium-extra-fabric-0.6.0%2Bmc1.21.1.jar",
+      "version": "mc1.21.1-0.6.0+fabric"
     },
     {
       "name": "ThreadTweak",
-      "url": "https://modrinth.com/mod/vSEH1ERy",
-      "version": "0.1.5+mc1.21.1"
-    },
-    {
-      "name": "Timeless & Classics Guns: Zero Refabricated",
-      "url": "https://modrinth.com/mod/1j76DVHU",
-      "version": "0.5.0-forge1.1.7-hotfix2"
-    },
-    {
-      "name": "ToolTip Fix",
-      "url": "https://modrinth.com/mod/2RKFTmiB",
-      "version": "1.1.1-1.20"
+      "url": "https://cdn.modrinth.com/data/vSEH1ERy/versions/F4sjmsi3/threadtweak-fabric-0.1.5%2Bmc1.21.1.jar",
+      "version": "0.1.5"
     },
     {
       "name": "Urban Decor",
-      "url": "https://modrinth.com/mod/1bLZdx1u",
+      "url": "https://cdn.modrinth.com/data/1bLZdx1u/versions/cA3YI6tY/fabric-urban_decor-1.21.1-1.1.0.jar",
       "version": "1.1.0"
     },
     {
-      "name": "WorldEdit",
-      "url": "https://modrinth.com/mod/1u6JkXh5",
-      "version": "7.3.8+6939-7d32b45"
-    },
-    {
       "name": "Xaero's World Map",
-      "url": "https://modrinth.com/mod/NcUtCpym",
-      "version": "1.40.11"
+      "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/wB9wNHUk/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+      "version": "fabric-1.21.1-1.40.11"
     },
     {
       "name": "YetAnotherConfigLib",
-      "url": "https://modrinth.com/mod/1eAoo2KR",
+      "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
       "version": "3.8.2+1.21.1-fabric"
     },
     {
       "name": "Yuushya",
-      "url": "https://modrinth.com/mod/lfVtagkm",
+      "url": "https://cdn.modrinth.com/data/lfVtagkm/versions/J5eH5hyi/yuushya-1.21.0-fabric-2.2.3.jar",
       "version": "2.2.3"
     },
     {
       "name": "Zoomify",
-      "url": "https://modrinth.com/mod/w7ThoJFB",
+      "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar",
       "version": "2.15.2+1.21.1"
     },
     {
-      "name": "lazy-language-loader",
-      "url": "https://modrinth.com/mod/Nz0RSWrF",
-      "version": "0.3.7"
+      "name": "ScalableLux",
+      "url": "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Yx1tgJMI/ScalableLux-0.1.0.1%2Bfabric.d0d58ab-all.jar",
+      "version": "0.1.0.1+fabric.d0d58ab"
+    },
+    {
+      "name": "Entity Culling",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/uh3DtMnM/entityculling-fabric-1.6.7-mc1.21.jar",
+      "version": "1.6.7"
+    },
+    {
+      "name": "Concurrent Chunk Management Engine (Fabric)",
+      "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/5CmOS3yK/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.150.jar",
+      "version": "0.3.0+alpha.0.150+1.21.1"
+    },
+    {
+      "name": "WorldEdit",
+      "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
+      "version": "7.3.8"
+    },
+    {
+      "name": "LambDynamicLights - Dynamic Lights",
+      "url": "https://cdn.modrinth.com/data/yBW8D80W/versions/CQuTG9xY/lambdynamiclights-4.8.7%2B1.21.1.jar",
+      "version": "4.8.7+1.21.1"
+    },
+    {
+      "name": "Language Reload",
+      "url": "https://cdn.modrinth.com/data/uLbm7CG6/versions/jCM93jJ5/language-reload-1.7.5%2B1.21.1.jar",
+      "version": "1.7.5+1.21.1"
+    },
+    {
+      "name": "Enhanced Block Entities",
+      "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/HBZAPs3u/enhancedblockentities-0.10.2%2B1.21.jar",
+      "version": "0.10.2+1.21"
+    },
+    {
+      "name": "Packet Fixer",
+      "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/2C41Q8WX/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+      "version": "3.3.1"
+    },
+    {
+      "name": "Easy NPC",
+      "url": "https://cdn.modrinth.com/data/CgGEe1h3/versions/xGH9hipZ/easy_npc_bundle-fabric-1.21.1-6.11.0.jar",
+      "version": "6.11.0"
+    },
+    {
+      "name": "Easy NPC: Config UI",
+      "url": "https://cdn.modrinth.com/data/uTGjf7vA/versions/ASuVZNQs/easy_npc_config_ui-fabric-1.21.1-6.11.0.jar",
+      "version": "6.11.0"
+    },
+    {
+      "name": "Easy NPC: Core",
+      "url": "https://cdn.modrinth.com/data/Epm6R3P2/versions/ir7gix90/easy_npc-fabric-1.21.1-6.11.0.jar",
+      "version": "6.11.0"
+    },
+    {
+      "name": "TaCZ: Refabricated",
+      "url": "https://cdn.modrinth.com/data/1j76DVHU/versions/QJsQvQpC/TACZ-Refabricated-1.21.1-0.5.0-forge1.1.7-hotfix2.jar",
+      "version": "1.21.1-0.5.0-forge1.1.7-hotfix2"
+    },
+    {
+      "name": "Forge Config API Port",
+      "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/N5qzq0XV/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "version": "v21.1.6-1.21.1-Fabric"
+    },
+    {
+      "name": "DustyDecoRefabricated-1.1-1.21+1.21.1",
+      "url": "local:main/mods/DustyDecoRefabricated-1.1-1.21+1.21.1.jar",
+      "version": "1.1-1.21+1.21.1"
+    },
+    {
+      "name": "framework-fabric-1.21.1-0.13.11",
+      "url": "local:main/mods/framework-fabric-1.21.1-0.13.11.jar",
+      "version": "fabric-1.21.1-0.13.11"
+    },
+    {
+      "name": "refurbished_furniture-fabric-1.21.1-1.0.22",
+      "url": "local:main/mods/refurbished_furniture-fabric-1.21.1-1.0.22.jar",
+      "version": "fabric-1.21.1-1.0.22"
+    },
+    {
+      "name": "sprrp_cars-1.2+1.21.1",
+      "url": "local:main/mods/sprrp_cars-1.2+1.21.1.jar",
+      "version": "1.2+1.21.1"
+    },
+    {
+      "name": "tl_skin_cape_fabric_1.20.2_1.21.1-1.38",
+      "url": "local:main/mods/tl_skin_cape_fabric_1.20.2_1.21.1-1.38.jar",
+      "version": "1.38"
     }
   ]
 }

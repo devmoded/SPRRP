@@ -1,4 +1,6 @@
 dist/
 compose.yml
+load_prism_mods_index.py
 # compose.template.yml
 # gen_compose.py
+__pycache__
