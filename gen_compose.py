@@ -6,6 +6,7 @@ from urllib.parse import urlparse, unquote
 # Mods
 PREFIX = "https://github.com/devmoded/SPRRP/raw/refs/heads/main"
 SERVER_MODS = Path("server/mods")
+LOCAL_MODS = Path("main/mods")
 EXCLUDED = [
     'fast-ip-ping-v1.0.8-mc1.21.1-fabric.jar',
     'lazy-language-loader-0.3.7.jar',
@@ -45,7 +46,9 @@ def main():
                 elif mod_url.startswith('local:'):
                     filename = unquote(urlparse(mod_url.replace('local:', '')).path.split('/')[-1])
                     if filename not in EXCLUDED:
-                        compose_mods.append(f"{PREFIX}/{filename}")
+                        compose_mods.append(f"{PREFIX}/{LOCAL_MODS}/{filename}")
+    for mod in SERVER_MODS.iterdir():
+        compose_mods.append(f"{PREFIX}/{SERVER_MODS}/{mod.name}")
 
     t = Template(COMPOSE_TEMPLATE.read_text())
     # print(t.substitute(mods_list='\n        '.join(mods)))
