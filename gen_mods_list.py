@@ -2,7 +2,7 @@ import json
 
 from pathlib import Path
 
-from load_prism_mods_index import get_mods_urls
+from scripts.load_prism_mods_index import get_mods_urls
 
 MODS_LIST = Path('mods_list.json')
 

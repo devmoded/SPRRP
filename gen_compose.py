@@ -17,7 +17,7 @@ EXCLUDED = [
     'zoomify-2.15.2+1.21.1.jar'
 ]
 # Compose
-COMPOSE_TEMPLATE = Path('compose.template.yml')
+COMPOSE_TEMPLATE = Path('assets/compose.template.yml')
 COMPOSE = Path('compose.yml')
 
 def main():
